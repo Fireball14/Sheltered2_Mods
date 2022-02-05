@@ -1,0 +1,13 @@
+D:\Mods\Sheltered2\RespecButton\obj\Debug\net46\RespecButton.csproj.AssemblyReference.cache
+D:\Mods\Sheltered2\RespecButton\obj\Debug\net46\PluginInfo.cs
+D:\Mods\Sheltered2\RespecButton\obj\Debug\net46\RespecButton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mods\Sheltered2\RespecButton\obj\Debug\net46\RespecButton.AssemblyInfoInputs.cache
+D:\Mods\Sheltered2\RespecButton\obj\Debug\net46\RespecButton.AssemblyInfo.cs
+D:\Mods\Sheltered2\RespecButton\obj\Debug\net46\RespecButton.csproj.CoreCompileInputs.cache
+D:\Mods\Sheltered2\RespecButton\bin\Debug\net46\RespecButton.dll
+D:\Mods\Sheltered2\RespecButton\bin\Debug\net46\RespecButton.pdb
+D:\Mods\Sheltered2\RespecButton\bin\Debug\net46\Assembly-CSharp.dll
+D:\Mods\Sheltered2\RespecButton\bin\Debug\net46\UnityEngine.UI.dll
+D:\Mods\Sheltered2\RespecButton\obj\Debug\net46\RespecButton.dll
+D:\Mods\Sheltered2\RespecButton\obj\Debug\net46\RespecButton.pdb
+D:\Mods\Sheltered2\RespecButton\bin\Debug\net46\netstandard.dll
