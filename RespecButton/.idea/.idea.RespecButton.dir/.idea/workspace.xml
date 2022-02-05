@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fa79c87-6a89-41a7-96b5-2a5eb9dfa4af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Libraries/UnityEngine.UI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Libraries/netstandard.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RespecButton.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RespecButton.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net46/Assembly-CSharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net46/RespecButton.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net46/RespecButton.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net46/UnityEngine.UI.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/Debug/net46/netstandard.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net46/PluginInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net46/RespecButton.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net46/RespecButton.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net46/RespecButton.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net46/RespecButton.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net46/RespecButton.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net46/RespecButton.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net46/RespecButton.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net46/RespecButton.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/net46/RespecButton.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/RespecButton.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/RespecButton.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/RespecButton.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
-    </list>
+    <list default="true" id="2fa79c87-6a89-41a7-96b5-2a5eb9dfa4af" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +65,7 @@
       <workItem from="1644066271684" duration="5820000" />
       <workItem from="1644074484997" duration="223000" />
       <workItem from="1644074744735" duration="128000" />
-      <workItem from="1644074904124" duration="2392000" />
+      <workItem from="1644074904124" duration="2816000" />
     </task>
     <servers />
   </component>
