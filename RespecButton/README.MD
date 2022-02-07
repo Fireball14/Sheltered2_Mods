@@ -1,4 +1,4 @@
-This mod adds Respec" button to character skill panel. When pressed this will reset all character skills and return all spend skill points.
+This mod adds "Respec" button to character skill panel. When pressed this will reset all character skills and return all spend skill points.
 
 ### How to use:
 1) BACKUP YOUR SAVES!!!
