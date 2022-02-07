@@ -1,3 +1,5 @@
+This mod adds Respec" button to character skill panel. When pressed this will reset all character skills and return all spend skill points.
+
 ### How to use:
 1) BACKUP YOUR SAVES!!!
 2) Download BepInEx 5.4.19  - https://github.com/BepInEx/BepInEx/releases
