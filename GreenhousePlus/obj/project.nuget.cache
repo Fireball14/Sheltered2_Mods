@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "JiNloMF1iVWaXIlaS6U4aXJZ0hdkcbz4skhEgJg192xe/P6h96Zql/dBJaAYihxWV2g6ZehaDPJHasvOvW8s9A==",
+  "success": true,
+  "projectFilePath": "D:\\Mods\\Sheltered2\\GreenhousePlus\\GreenhousePlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShadowAngel\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\ShadowAngel\\.nuget\\packages\\bepinex.baselib\\5.4.17\\bepinex.baselib.5.4.17.nupkg.sha512",
+    "C:\\Users\\ShadowAngel\\.nuget\\packages\\bepinex.core\\5.4.17\\bepinex.core.5.4.17.nupkg.sha512",
+    "C:\\Users\\ShadowAngel\\.nuget\\packages\\bepinex.plugininfoprops\\1.1.0\\bepinex.plugininfoprops.1.1.0.nupkg.sha512",
+    "C:\\Users\\ShadowAngel\\.nuget\\packages\\harmonyx\\2.5.5\\harmonyx.2.5.5.nupkg.sha512",
+    "C:\\Users\\ShadowAngel\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\ShadowAngel\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.2\\microsoft.netframework.referenceassemblies.net46.1.0.2.nupkg.sha512",
+    "C:\\Users\\ShadowAngel\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\ShadowAngel\\.nuget\\packages\\monomod.runtimedetour\\21.8.19.1\\monomod.runtimedetour.21.8.19.1.nupkg.sha512",
+    "C:\\Users\\ShadowAngel\\.nuget\\packages\\monomod.utils\\21.8.19.1\\monomod.utils.21.8.19.1.nupkg.sha512",
+    "C:\\Users\\ShadowAngel\\.nuget\\packages\\unityengine.modules\\2019.4.19\\unityengine.modules.2019.4.19.nupkg.sha512"
+  ],
+  "logs": []
+}
