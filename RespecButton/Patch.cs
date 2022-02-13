@@ -18,7 +18,12 @@ namespace RespecButton
             {
                 return;
             }
-            respecButton = Object.Instantiate(___m_purchaseButton, ___m_purchaseButton.transform.parent);
+            respecButton = Object.Instantiate(___m_purchaseButton, ___m_purchaseButton.transform.parent.parent);
+            RectTransform respecButtonTransform = ((RectTransform)respecButton.transform);
+            respecButtonTransform.anchorMin = new Vector2(0, 1);
+            respecButtonTransform.anchorMax = new Vector2(0, 1);
+            respecButtonTransform.pivot = new Vector2(0, 1);
+            respecButtonTransform.anchoredPosition = new Vector2(20, -20);
             respecButton.interactable = true;
             respecButton.gameObject.SetActive(true);
             respecButton.GetComponentInChildren<Text>().text = "Respec";
