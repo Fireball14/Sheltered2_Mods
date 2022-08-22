@@ -1,0 +1,14 @@
+D:\Mods\Sheltered2\LightningRodProtection\obj\Debug\net46\LightningRodProtection.csproj.AssemblyReference.cache
+D:\Mods\Sheltered2\LightningRodProtection\obj\Debug\net46\PluginInfo.cs
+D:\Mods\Sheltered2\LightningRodProtection\obj\Debug\net46\LightningRodProtection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mods\Sheltered2\LightningRodProtection\obj\Debug\net46\LightningRodProtection.AssemblyInfoInputs.cache
+D:\Mods\Sheltered2\LightningRodProtection\obj\Debug\net46\LightningRodProtection.AssemblyInfo.cs
+D:\Mods\Sheltered2\LightningRodProtection\obj\Debug\net46\LightningRodProtection.csproj.CoreCompileInputs.cache
+D:\Mods\Sheltered2\LightningRodProtection\bin\Debug\net46\LightningRodProtection.dll
+D:\Mods\Sheltered2\LightningRodProtection\bin\Debug\net46\LightningRodProtection.pdb
+D:\Mods\Sheltered2\LightningRodProtection\bin\Debug\net46\Assembly-CSharp.dll
+D:\Mods\Sheltered2\LightningRodProtection\bin\Debug\net46\netstandard.dll
+D:\Mods\Sheltered2\LightningRodProtection\bin\Debug\net46\UnityEngine.UI.dll
+D:\Mods\Sheltered2\LightningRodProtection\obj\Debug\net46\LightningRodProtection.csproj.CopyComplete
+D:\Mods\Sheltered2\LightningRodProtection\obj\Debug\net46\LightningRodProtection.dll
+D:\Mods\Sheltered2\LightningRodProtection\obj\Debug\net46\LightningRodProtection.pdb
