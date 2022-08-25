@@ -29,27 +29,35 @@ namespace SortByStackWeight
             {
                 _sortByStackWeightEnabled = false;
             }
-            ___m_sortDropDown.AddOptions(new List<string> { "Stack Weight" });
-            if (_sortByStackWeightEnabled == true)
+            if (___m_sortDropDown != null)
             {
-                ___m_sortDropDown.SetValueWithoutNotify(___m_sortDropDown.options.Count-1);
+                ___m_sortDropDown.AddOptions(new List<string> { "Stack Weight" });
             }
         }
         
         [HarmonyPatch(typeof(ItemGrid), nameof(ItemGrid.OnSortSelected))]
         [HarmonyPrefix]
-        public static bool OnSortSelected_Prefix(Dropdown ___m_sortDropDown, List<string> ___m_sortOptions,
-            ItemGrid.FilterChangeCallback ___m_filterChangeCallback, ItemGrid __instance)
+        public static bool OnSortSelected_Prefix(Dropdown ___m_sortDropDown, List<string> ___m_sortOptions, 
+            List<ItemGrid.SortType> ___m_currentSortTypes, ItemGrid.FilterChangeCallback ___m_filterChangeCallback,
+            ItemGrid __instance)
         {
-            if (___m_sortDropDown.value == ___m_sortOptions.Count)
+            int sortType = ___m_sortDropDown.value;
+            if (sortType < 0 || sortType > ___m_sortOptions.Count)
             {
-                _sortByStackWeightEnabled = true;
+                return true;
+            }
+            if (___m_sortOptions.Count == 0 || ___m_currentSortTypes.Count + 1 <= sortType)
+            {
+                return true;
+            }
+            _sortByStackWeightEnabled = ___m_sortDropDown.value == ___m_sortOptions.Count;
+            if (_sortByStackWeightEnabled == true)
+            {
                 __instance.SnapGridScrollToTop();
                 __instance.RefreshGrid();
                 ___m_filterChangeCallback?.Invoke();
                 return false;
             }
-            _sortByStackWeightEnabled = false;
             return true;
         }
     }
