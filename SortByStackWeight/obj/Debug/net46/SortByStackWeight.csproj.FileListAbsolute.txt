@@ -1,0 +1,13 @@
+D:\Mods\Sheltered2\SortByStackWeight\bin\Debug\net46\SortByStackWeight.dll
+D:\Mods\Sheltered2\SortByStackWeight\bin\Debug\net46\SortByStackWeight.pdb
+D:\Mods\Sheltered2\SortByStackWeight\bin\Debug\net46\Assembly-CSharp.dll
+D:\Mods\Sheltered2\SortByStackWeight\bin\Debug\net46\netstandard.dll
+D:\Mods\Sheltered2\SortByStackWeight\bin\Debug\net46\UnityEngine.UI.dll
+D:\Mods\Sheltered2\SortByStackWeight\obj\Debug\net46\SortByStackWeight.csproj.AssemblyReference.cache
+D:\Mods\Sheltered2\SortByStackWeight\obj\Debug\net46\PluginInfo.cs
+D:\Mods\Sheltered2\SortByStackWeight\obj\Debug\net46\SortByStackWeight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mods\Sheltered2\SortByStackWeight\obj\Debug\net46\SortByStackWeight.AssemblyInfoInputs.cache
+D:\Mods\Sheltered2\SortByStackWeight\obj\Debug\net46\SortByStackWeight.AssemblyInfo.cs
+D:\Mods\Sheltered2\SortByStackWeight\obj\Debug\net46\SortByStackWeight.csproj.CoreCompileInputs.cache
+D:\Mods\Sheltered2\SortByStackWeight\obj\Debug\net46\SortByStackWeight.dll
+D:\Mods\Sheltered2\SortByStackWeight\obj\Debug\net46\SortByStackWeight.pdb
